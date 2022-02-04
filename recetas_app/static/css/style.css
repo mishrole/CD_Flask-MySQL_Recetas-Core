@@ -1,0 +1,10 @@
+.btn-blank {
+    background-color: transparent;
+    border: none;
+    color: #0d6efd;
+    text-decoration: underline;
+}
+
+.btn-blank:hover {
+    color: #0a58ca;
+}
